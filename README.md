@@ -1,1 +1,8 @@
-# esm206-lab4-part2-am
+# My awesome ReadMe!
+- Some
+- bullet
+- points
+
+**other useful bold information**
+
+*yays in italics*
